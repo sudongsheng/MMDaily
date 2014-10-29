@@ -1,4 +1,4 @@
-# MMDialy
+# MMDaily
 
 南邮移动互联网俱乐部第一次内部迷你Hackthon项目
 
